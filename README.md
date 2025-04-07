@@ -27,7 +27,7 @@ LibreOffice Writer allows users to apply table styles, but the existing interfac
 
 ## Proposal Link
 
-[Read Full GSoC Proposal (PDF)]([https://github.com/PriyanshuValechha/gsoc2025-libreoffice-table-styles/blob/main/docs/LibreOffice_GSoC2025_Table_Styles_Proposal_PriyanshuValechha.pdf](https://docs.google.com/document/d/1Fd5JuN4UnDVqYymyG318EtLSJUEZ0YxsIUpMimJiCLU/edit?usp=sharing))
+[Read Full GSoC Proposal (PDF)](https://github.com/PriyanshuValechha/gsoc2025-libreoffice-table-styles/blob/main/docs/LibreOffice_GSoC2025_Table_Styles_Proposal_PriyanshuValechha.pdf](https://docs.google.com/document/d/1Fd5JuN4UnDVqYymyG318EtLSJUEZ0YxsIUpMimJiCLU/edit?usp=sharing))
 
 ---
 
@@ -96,4 +96,4 @@ All contributions and original work in this repository are under the *Mozilla Pu
 ## Connect with Me
 
 - GitHub: [https://github.com/PriyanshuValechha](https://github.com/PriyanshuValechha)
-- Email: priyanshuvalecha07@gmail.com
+- Email: priyanshuvalechha.work@gmail.com@gmail.com
